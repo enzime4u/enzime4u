@@ -12,4 +12,4 @@
 
 📊 Methodologies: SCRUM, Agile, TDD
 
-🌐 Interests: I have a deep interest in the React.js ecosystem, specifically delving into technologies like Redux for state management, Next.js for server-side rendering, Tailwind CSS for streamlined styling, and Styled Components for component-based design. I'm also captivated by the power of GraphQL for flexible data querying. Beyond this, I aspire to evolve into a full-stack developer, mastering both frontend and backend technologies. My goal is to create comprehensive and resilient web applications by seamlessly integrating these innovative tools.
+🌐 Interests: I find immense passion in the React.js ecosystem, and my ambition is set on becoming a proficient full-stack developer. I'm committed to mastering both frontend and backend technologies, paving the way for creating well-rounded and impactful web solutions.
